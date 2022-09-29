@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Malckyor",
+        "username": "Mal",
+        "email": "blablamal",
+        "address": {
+            "street": "lua",
+            "suite": "gta+",
+            "city": "home alabama",
+            "zipcode": "none",
+            "geo": {
+                "lat": "8412731",
+                "lng": "4412236"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Marcos",
+        "username": "Marrr",
+        "email": "blaass",
+        "address": {
+            "street": "lua",
+            "suite": "gta+",
+            "city": "home alabama",
+            "zipcode": "none",
+            "geo": {
+                "lat": "8412731",
+                "lng": "4412236"
+            }
+        }
+    }
+]
